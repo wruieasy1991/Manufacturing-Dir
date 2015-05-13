@@ -1,1 +1,3 @@
 find a best manufacturing direction
+
+genetic algorithm   Pareto solution
